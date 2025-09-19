@@ -1,0 +1,11 @@
+{
+    "modName": "Cool Spaceship",
+    "description": "Replaces the player character with a spaceship.",
+    "assets": [
+        {
+            "modType": "Player",
+            "assetName": "SpaceshipPrefab"
+        }
+    ]
+}
+    Имя `assetName` должно совпадать с именем префаба в AssetBundle.
