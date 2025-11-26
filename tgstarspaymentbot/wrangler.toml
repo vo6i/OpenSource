@@ -1,0 +1,3 @@
+[vars]
+TELEGRAM_BOT_TOKEN = "ВАШ_ТОКЕН_БОТА_ЗДЕСЬ"
+ADMIN_CHAT_ID = "ВАШ_ID_ДЛЯ_УВЕДОМЛЕНИЙ"
